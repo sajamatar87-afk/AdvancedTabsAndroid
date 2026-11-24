@@ -1,0 +1,22 @@
+AdvancedTabsAndroid/
+  settings.gradle
+  build.gradle
+  gradle.properties
+  app/
+    build.gradle
+    src/main/
+      AndroidManifest.xml
+      java/com/example/advancedtabsapp/
+        MainActivity.java
+        SimpleTextWatcher.java
+        ModeActivity.java
+        TabsPagerAdapter.java
+        TabFragment.java
+      res/
+        layout/
+          activity_main.xml
+          activity_mode.xml
+          fragment_tab.xml
+        values/
+          strings.xml
+          themes.xml
